@@ -1,5 +1,5 @@
 {
-	"name": "react-tailwind-boilerplate",
+	"name": "devfest-depok",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -57,16 +57,17 @@
 	"main": "config-overrides.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/arayhan/react-tailwind-boilerplate.git"
+		"url": "git+https://github.com/arayhan/devfest-depok.git"
 	},
 	"author": "@arayhan",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/arayhan/react-tailwind-boilerplate/issues"
+		"url": "https://github.com/arayhan/devfest-depok/issues"
 	},
 	"keywords": [
-		"react",
-		"tailwindcss",
-		"boilerplate"
+		"google developers group depok",
+		"gdg depok",
+		"devfest",
+		"depok"
 	]
 }
